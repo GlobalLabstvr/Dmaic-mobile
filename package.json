@@ -8,9 +8,9 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "json:server": "json-server --watch db.json",
-    "precache": "sw-precache --verbose --config=sw-precache-config.js"
-  },
+    "json:server": "json-server --watch db.json"
+    },
+
   "private": true,
   "dependencies": {
     "@angular/animations": "~7.2.0",
